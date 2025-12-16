@@ -17,3 +17,47 @@ data handling, and clear documentation using QGIS.
 ## Secondary Questions
 - 
 - 
+- 
+
+---
+
+## Study Area
+- Type: Multi-building apartment complex
+- Location: Approximate (not exact)
+- Access: Freely walkable and observable on foot
+
+---
+
+## Scope (Included)
+- 
+- 
+- 
+
+---
+
+## Out of Scope (Explicitly excluded)
+- 
+- 
+- 
+
+---
+
+## Data Expectations
+Planned data types may include:
+- Raster data (e.g., elevation-derived surfaces)
+- Vector data (e.g., buildings, paths, boundaries)
+- Observational notes collected on site
+
+All data limitations and uncertainty will be documented.
+
+---
+
+## Intended Outputs
+- One or more clear map layouts
+- Written interpretation of findings
+- Documentation of assumptions and uncertainty
+
+---
+
+## Status
+Planning phase.
