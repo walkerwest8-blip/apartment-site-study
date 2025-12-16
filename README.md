@@ -6,7 +6,6 @@ to understand existing conditions and identify potential improvements.
 
 This is a learning-focused GIS project intended to demonstrate spatial thinking,
 data handling, and clear documentation using QGIS.
-
 ---
 ## Primary Question
 How do terrain, pedestrian infrastructure, and environmental comfort factors
@@ -23,7 +22,6 @@ influence walkable access from my apartment complex to nearby daily-use destinat
 - Type: Multi-building apartment complex
 - Location: Approximate (not exact)
 - Access: Freely walkable and observable on foot
-
 ---
 ## Scope (Included)
 - Walkable paths and informal pedestrian routes
@@ -45,12 +43,14 @@ Planned data types may include:
 
 All data limitations and uncertainty will be documented.
 
+## File Management Note
+All GIS processing and raw data are stored locally on a personal workstation.
+This repository contains documentation and selected outputs only.
 ---
 ## Intended Outputs
 - One or more clear map layouts
 - Written interpretation of findings
 - Documentation of assumptions and uncertainty
-
 ---
 ## Status
 Question defined.
