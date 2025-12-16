@@ -52,5 +52,11 @@ This repository contains documentation and selected outputs only.
 - Written interpretation of findings
 - Documentation of assumptions and uncertainty
 ---
+## Key GIS Methods Demonstrated
+- DEM preprocessing + hillshade interpretation
+- Slope surface creation for pedestrian comfort proxy
+- Digitizing informal pedestrian routes from field observation
+- Cartographic styling for interpretability
+---
 ## Status
 Question defined.
