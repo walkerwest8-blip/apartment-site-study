@@ -1,62 +1,63 @@
 # Apartment Site Study
 
-## Purpose
-This project explores the spatial characteristics of a multi-building apartment complex
-to understand existing conditions and identify potential improvements.
+> A learning-focused GIS case study using QGIS  
+> Terrain, access, and walkability context analysis
 
-This is a learning-focused GIS project intended to demonstrate spatial thinking,
-data handling, and clear documentation using QGIS.
 ---
-## Primary Question
-How do terrain, pedestrian infrastructure, and environmental comfort factors
-influence walkable access from my apartment complex to nearby daily-use destinations?
+
+## Overview
+
+This project explores the spatial characteristics of a multi-building apartment complex to understand existing conditions and identify potential improvements to pedestrian walkability.
+
+The goal is to demonstrate spatial thinking, data handling, and clear documentation using QGIS.
+
 ---
-## Secondary Questions
+
+## Research Questions
+
+### Primary Question
+How do terrain, pedestrian infrastructure, and environmental comfort factors influence walkable access from my apartment complex to nearby daily-use destinations?
+
+### Secondary Questions
 - Which walking routes minimize physical effort (slope) while maintaining reasonable distance?
-- Where do environmental comfort factors (e.g., lighting presence, noise proxies, openness)
-  align or conflict with walkability?
-- How does parking layout and internal circulation affect pedestrian access to exits
-  and nearby destinations?
+- Where do environmental comfort factors (e.g., lighting presence, noise proxies, openness) align or conflict with walkability?
+- How does parking layout and internal circulation affect pedestrian access to exits and nearby destinations?
+
 ---
+
 ## Study Area
-- Type: Multi-building apartment complex
-- Location: Approximate (not exact)
-- Access: Freely walkable and observable on foot
+
+| Attribute | Description |
+|---------|-------------|
+| Type | Multi-building apartment complex |
+| Location | Approximate (not exact) |
+| Access | Freely walkable and observable on foot |
+
 ---
-## Scope (Included)
-- Walkable paths and informal pedestrian routes
-- Terrain and slope as movement constraints
-- Relative proximity to nearby conveniences and event spaces
-- Observed environmental comfort proxies
+
+## Scope
+
+### Included
+- Walkable paths and informal pedestrian routes  
+- Terrain and slope as movement constraints  
+- Relative proximity to nearby daily-use destinations  
+- Observed environmental comfort proxies  
+
+### Explicitly Excluded
+- Legal accessibility or ADA compliance analysis  
+- Safety certification or risk assessment  
+- Property management or development recommendations  
+- Vehicular traffic engineering  
+
 ---
-## Out of Scope (Explicitly excluded)
-- Legal accessibility or ADA compliance analysis
-- Safety certification or risk assessment
-- Property management or development recommendations
-- Vehicular traffic engineering
----
-## Data Expectations
-Planned data types may include:
-- Raster data (e.g., elevation-derived surfaces)
-- Vector data (e.g., buildings, paths, boundaries)
+
+## Data
+
+Planned and current data types include:
+- Raster data (elevation-derived surfaces such as DEM and slope)
+- Vector data (study extent boundaries, buildings, paths)
 - Observational notes collected on site
 
-All data limitations and uncertainty will be documented.
+All data limitations and uncertainty are documented.
 
-## File Management Note
-All GIS processing and raw data are stored locally on a personal workstation.
-This repository contains documentation and selected outputs only.
----
-## Intended Outputs
-- One or more clear map layouts
-- Written interpretation of findings
-- Documentation of assumptions and uncertainty
----
-## Key GIS Methods Demonstrated
-- DEM preprocessing + hillshade interpretation
-- Slope surface creation for pedestrian comfort proxy
-- Digitizing informal pedestrian routes from field observation
-- Cartographic styling for interpretability
----
-## Status
-Question defined.
+
