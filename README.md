@@ -1,6 +1,7 @@
 """
 # Apartment Site Study
 ## Effort-Based Walkability & Amenity Reach (QGIS)
+**🔗 Portfolio hub: https://walkerwest8-blip.github.io**
 
 ### Project Overview
 This project evaluates **pedestrian walkability from a single residential origin** by modeling **physical walking effort** rather than simple distance. Using a pedestrian-capable network combined with **terrain-derived slope**, the analysis identifies which nearby amenities are reasonably reachable on foot and where **access gaps** exist despite geographic proximity.
