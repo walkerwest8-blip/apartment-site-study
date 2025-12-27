@@ -109,14 +109,14 @@ A **Market District** is any area where:
 ---
 
 ## Status
-- [ ] Data acquisition
-- [ ] Network build (walkable classes)
+- [✅] Data acquisition
+- [✅] Network build (walkable classes)
 - [ ] DEM + slope generation
 - [ ] Market District clustering
 - [ ] Effort cost model
 - [ ] Routes + reach outputs
 - [ ] Final maps + writeup
-
+updated 12-26-2025
 ---
 
 ## Notes
